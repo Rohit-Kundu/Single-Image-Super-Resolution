@@ -13,7 +13,7 @@ To install the dependencies, run the following using the command prompt:
 ## Running the code
 
 ## Citation
-`
+```
 @inproceedings{basak2020single,
   title={Single Image Super-Resolution using Residual Channel Attention Network},
   author={Basak, Hritam and Kundu, Rohit and Agarwal, Anish and Giri, Shreya},
@@ -22,4 +22,4 @@ To install the dependencies, run the following using the command prompt:
   year={2020},
   organization={IEEE}
 }
-`
+```
