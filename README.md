@@ -10,8 +10,6 @@ To install the dependencies, run the following using the command prompt:
 
 `pip install -r requirements.txt`
 
-## Running the code
-
 ## Citation
 
 If this repository helps you in any way, consider citing our paper as follows:
