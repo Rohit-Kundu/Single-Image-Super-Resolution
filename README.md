@@ -13,6 +13,8 @@ To install the dependencies, run the following using the command prompt:
 ## Running the code
 
 ## Citation
+
+If this repository helps you in any way, consider citing our paper as follows:
 ```
 @inproceedings{basak2020single,
   title={Single Image Super-Resolution using Residual Channel Attention Network},
