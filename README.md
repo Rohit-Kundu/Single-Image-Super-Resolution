@@ -1,6 +1,6 @@
 # Single-Image-Super-Resolution
 
-<img src="/overall.png" style="margin: 10px;">
+<img src="/overall.jpg" style="margin: 10px;">
 
 This is the official implementation of our paper [Single Image Super-Resolution using Residual Channel Attention Network](https://doi.org/10.1109/iciis51140.2020.9342688).
 
